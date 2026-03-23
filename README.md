@@ -2,19 +2,8 @@
 
 Canonical source index for BlackRoad-Studio. Mirrors the BlackRoad-OS-Inc/source operator pattern.
 
-## Organization
+**BlackRoad-Studio** — Creative — video, canvas, design
 
-**BlackRoad-Studio** — Creative — canvas, video, writing, design
+[blackroad.io](https://blackroad.io) · [docs](https://docs.blackroad.io) · [GitHub](https://github.com/BlackRoad-Studio)
 
-## BlackRoad OS
-
-BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
-
-- [blackroad.io](https://blackroad.io) — Main platform
-- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
-- [GitHub](https://github.com/BlackRoad-Studio) — This organization
-
-
-
-
-*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+*© 2024-2026 BlackRoad OS, Inc.*
